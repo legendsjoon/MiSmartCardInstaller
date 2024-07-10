@@ -1,0 +1,6 @@
+id=com.joon.EUInstallSmartCard
+name=HyperOS EU MISmartCard
+version=v1.0
+versionCode=1
+author=Joon
+description=Restore MISmartCard for adding door, elevator,... card
